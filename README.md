@@ -1,2 +1,2 @@
-# React-textinput-display
-Created with CodeSandbox
+# React: Display input from textbox
+
